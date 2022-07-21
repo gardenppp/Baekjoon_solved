@@ -1,0 +1,6 @@
+a,b,c,d=map(int,input().split())
+q=abs(0-a)
+w=abs(0-b)
+e=abs(c-a)
+r=abs(d-b)
+print(min(q,w,e,r))
