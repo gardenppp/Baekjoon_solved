@@ -1,0 +1,8 @@
+a=int(input())
+b=int(input())
+c=int(input())
+m=min(a,b,c)
+d=int(input())
+e=int(input())
+s=min(d,e)
+print(m+s-50)
