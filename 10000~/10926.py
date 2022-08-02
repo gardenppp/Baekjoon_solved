@@ -1,0 +1,2 @@
+statement = input()
+print(statement+"??!")
