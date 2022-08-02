@@ -1,0 +1,11 @@
+a=int(input())
+b=int(input())
+c=int(input())
+d=int(input())
+e=int(input())
+f=int(input())
+sum1=a+b+c+d
+sum2=e+f
+q=sum1-min(a,b,c,d)
+p=sum2-min(e,f)
+print(q+p)
